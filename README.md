@@ -4,6 +4,8 @@ Projeto prático desenvolvido para simular a operação de uma Central de Servic
 
 O objetivo do laboratório foi aplicar conceitos utilizados em rotinas de Suporte Técnico N1/N2 e Service Desk em um ambiente prático no Jira.
 
+**Tecnologias e conceitos:** Jira • Automação • ITSM • SLA • Service Desk • Workflow • Escalonamento N1/N2/N3
+
 ## Funcionalidades implementadas
 
 - Workflow personalizado para atendimento de chamados
